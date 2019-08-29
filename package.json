@@ -1,0 +1,39 @@
+{
+  "name": "hayer-react-image-crop",
+  "version": "2.1.4",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-image-crop": "^8.2.1",
+    "semantic-ui-react": "^0.85.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "path": "^0.12.7",
+    "prop-types": "^15.6.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.0.0",
+    "react-image-crop": "^8.2.1",
+    "react-scripts": "^3.1.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.85.0",
+    "webpack-cli": "^3.3.7"
+  },
+  "keywords": [
+    "react image crop",
+    "image crop",
+    "hayer react image crop"
+  ],
+  "author": "Amneesh Singh Hayer",
+  "license": "ISC"
+}
