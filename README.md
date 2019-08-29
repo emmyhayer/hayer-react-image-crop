@@ -3,7 +3,7 @@
 An image cropping tool for React.
 based on npm package "react-image-crop"
 
-![Demo](./demo.gif)
+![Demo](https://raw.githubusercontent.com/emmyhayer/hayer-react-image-crop/master/demo.gif)
 
 ## Installation
 
